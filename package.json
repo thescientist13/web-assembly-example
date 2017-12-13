@@ -1,0 +1,15 @@
+{
+  "name": "web-assembly-example",
+  "version": "1.0.0",
+  "description": "A sandbox for playing around with Web Assembly",
+  "repository": "git@github.com:thescientist13/web-assembly-example.git",
+  "author": "Owen Buckley <owen.buckley@analogstudios.net>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
