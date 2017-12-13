@@ -1,4 +1,4 @@
-# web-assembly-poc
+# web-assembly-example
 
 ## Overview
 A simple project to start playing around with [Web Assembly](https://developer.mozilla.org/en-US/docs/WebAssembly).
